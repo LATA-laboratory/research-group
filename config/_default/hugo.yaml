@@ -4,7 +4,7 @@ theme: "theme-research-group"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: LATA - Environmental Laboratory for Water Treatment# Website name
+title: LATA - Environmental Laboratory for Water Treatment # Website name
 baseURL: 'https://lata.netlify.app/' # Website URL
 
 ############################
