@@ -1,2 +1,3 @@
 # research-group
-LAPA main web-site
+
+[https://lata.netlify.app/](https://lata.netlify.app/)
