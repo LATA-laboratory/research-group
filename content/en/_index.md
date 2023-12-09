@@ -11,6 +11,25 @@ sections:
       The **Environmental Laboratory for Water Treatment** has been a center of excellence for water research since its founding in 2012.
     title: |
       LATA
+- block: portfolio
+  content:
+    buttons:
+    - name: All
+      tag: '*'
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Other
+      tag: Demo
+    default_button_index: 0
+    filters:
+      folders:
+      - equipment
+    title: Equipment
+  design:
+    columns: "1"
+    flip_alt_rows: false
+    view: showcase
+  id: equipment
 # - block: collection
 #   content:
 #     count: 5
