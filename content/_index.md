@@ -8,10 +8,9 @@ sections:
     text: |
       <br>
 
-      The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      The **Environmental Laboratory for Water Treatment** has been a center of excellence for water research since its founding in 2012.
     title: |
-      LATA -
-      Environmental Laboratory for Water Treatment
+      LATA
 - block: collection
   content:
     count: 5
