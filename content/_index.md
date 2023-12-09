@@ -10,7 +10,7 @@ sections:
 
       The **Environmental Laboratory for Water Treatment** has been a center of excellence for water research since its founding in 2012.
     title: |
-      LATA
+      LATAAAAAA
 - block: collection
   content:
     count: 5
