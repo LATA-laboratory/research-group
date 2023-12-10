@@ -1,57 +1,65 @@
 ---
-bio: My research interests include water treatment, technological development and data analysis.
+bio: My research interests include adsorption, data analysis, Python, R and puzzles
 education:
   courses:
-  - course: PhD in Chemical Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2010
-  - course: Master in Environmental Engineering 
-    institution: Federal University of Rio de Janeiro
-    year: 2005
-  - course: BSc in Chemical Engineering 
+  - course: PhD in Food Engineering
+    institution: Federal University of Paraná
+    year: 2018
+  - course: Master in Food Engineering 
+    institution: Federal University of Paraná
+    year: 2013
+  - course: BSc in Food Engineering 
     institution: University of São Paulo
-    year: 1995
+    year: 2011
 email: ""
-first_name: Juliana
+first_name: Anderson
+last_name: Canteli
 highlight_name: false
 interests:
-- Water Treatment Technology
-- Advanced Oxidation Methods
 - Adsorption
-- Modeling and Analysis
-last_name: Rossi
+- Data analysis
+- Python, R
+- Puzzles
+
 organizations:
-- name:  Federal University of Paraná
-  url: "julianabrossi@gmail.com  "
-role: Professor of Chemical Engineering
+- name:  Anderson Canteli Consultoria & Treinamento 
+  url: https://andersonmdcanteli.com.br/
+role: CEO
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:julianabrossi@gmail.com  
+  link: mailto:andersonmdcanteli@gmail.com  
 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 
 - icon: graduation-cap
   icon_pack: fas
-  link: https://www.lattes.cnpq.br/
+  link: http://lattes.cnpq.br/6961242234529344  
 
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net
+  link: https://www.researchgate.net/profile/Anderson-Canteli-2
 
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/andersonmdcanteli
+
+- icon: linkedin
+  icon_pack: fab
+  link: https://br.linkedin.com/in/anderson-canteli-7431624a
+
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/andersonmdcanteli/
+
+- icon: facebook
+  icon_pack: fab
+  link: https://web.facebook.com/canteli2207/  
 
 superuser: true
-title: Juliana Beatriz Rossi
+title: Anderson Canteli
 user_groups:
-- Researchers
+- Developers
 ---
 
 
-Juliana B. Rossi, a Brazilian scientist, forged her career in water treatment, graduating with a degree in Chemical Engineering from the University of São Paulo in 2000. Early in her journey, she delved into the intricacies of water quality, completing a year of scientific initiation and publishing her work on innovative organic compound removal using advanced oxidation methods. Her dedication led her to a pivotal role in the water treatment system of "SaborColheita Indústria de Conservas," followed by impactful studies at MIT, where she earned a Ph.D. in Environmental Engineering in 2010. During her Ph.D., Juliana's research made notable contributions, particularly in the development of cost-effective silica-based adsorbents for selective copper removal.
-
-She became a university professor at UFPR in 2011. At UFPR, she established the "Laboratório Ambiental para Tratamento de Águas (LATA)," where her leadership and expertise continue to shape innovative approaches to water treatment. Juliana's journey is characterized by a humble commitment to advancing sustainable solutions, both in academia and in practical applications addressing water quality challenges.
+Olá! Eu sou o desenvolvedor deste site! Criei todo o conceito, background histórico, imagens, etc, etc etc. 
