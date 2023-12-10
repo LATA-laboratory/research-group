@@ -1,5 +1,4 @@
 ---
-author: ÕÉ│µü®Úüö
 # paper name
 title: 'Detection of Waterborne Contaminants in Tropical Aquatic Ecosystems: A Mass Spectrophotometric Analysis'
 # 
@@ -13,12 +12,12 @@ author_notes:
 - Equal contribution
 - Equal contribution
 authors:
-- admin
+- juliana_beatriz_rossi
 - Carlos M. Silva
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Created with [**Image creator**](https://www.bing.com/images/create?)'
   focal_point: ""
   preview_only: false
 projects: []

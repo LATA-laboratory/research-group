@@ -45,7 +45,7 @@ social:
   icon_pack: fab
   link: https://github.com/
 
-superuser: true
+superuser: false
 title: Juliana Beatriz Rossi
 user_groups:
 - Researchers
