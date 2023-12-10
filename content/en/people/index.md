@@ -13,6 +13,7 @@ sections:
     - Administration
     - Visitors
     - Alumni
+    - Developers
   design:
     show_interests: false
     show_role: true
