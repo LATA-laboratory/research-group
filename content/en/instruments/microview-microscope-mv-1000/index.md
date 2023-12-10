@@ -13,6 +13,7 @@ image:
 summary: The MicroView MV-1000 is a digital microscope with high-resolution imaging capabilities. It is equipped with advanced optics, digital image capture, and analysis software, making it suitable for biological research, material inspection, and quality control.
 tags:
 - microscope
+- optical
 title: MicroView Microscope MV-1000
 url_code: ""
 url_pdf: ""

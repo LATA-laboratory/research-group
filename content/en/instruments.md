@@ -7,10 +7,10 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: spectrophotometer
-      tag: spectrophotometer
-    - name: Other
-      tag: Demo
+    - name: Analytic
+      tag: analytic
+    - name: Optical
+      tag: optical
     default_button_index: 0
     filters:
       folders:
