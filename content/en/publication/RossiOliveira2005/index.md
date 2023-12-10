@@ -16,10 +16,10 @@ authors:
 - Isabela Oliveira
 doi: "https://www.doi.org/"
 featured: false
-image:
-  caption: 'Created with [**Image creator**](https://www.bing.com/images/create?)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Created with [**Image creator**](https://www.bing.com/images/create?)'
+#   focal_point: ""
+#   preview_only: false
 projects: []
 publication_short: ""
 
