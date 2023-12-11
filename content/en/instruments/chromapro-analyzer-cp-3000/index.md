@@ -27,6 +27,13 @@ The ChromaPro Analyzer CP-3000 is a high-performance liquid chromatography syste
 Only certified researchers can use the equipment
 {{% /callout %}}
 
+## Technical manager
+
+[Vinícius Miguel Braga]({{< ref "/authors/vinicius_miguel_braga" >}})
+
+
+> Contact our technician for more details, training scheduling and equipment availability.
+
 ## Key Features
 
 ### Large Touchscreen Interface
@@ -90,6 +97,8 @@ In the petroleum and petrochemical industry, the CP-3000 is employed for the ana
 
 
 ## Training
+
+
 
 ### 1. Training Duration
 
