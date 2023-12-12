@@ -5,7 +5,7 @@ sections:
 - block: hero
   content:
     image:
-      filename: \imgs\closed.jfif
+      filename: imgs\closed.jfif
     text: |
       <br>
 
