@@ -19,9 +19,12 @@ main:
   - name: Instruments
     url: instruments/
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Positions
+    url: positions
     weight: 60
+  # - name: Contact
+  #   url: contact
+  #   weight: 60    
   - name: About
     url: about
     weight: 70
