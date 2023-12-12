@@ -20,15 +20,20 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-MassQuantum Spectrometer MQ-2000
-
-
 
 PrecisionTech Dynamics proudly introduces the MassQuantum Spectrometer, a cutting-edge analytical instrument at the forefront of mass spectrometry technology. Meticulously engineered for precision and versatility, the MassQuantum is designed to empower researchers with unparalleled insights into molecular structures across a wide range of applications.
 
 {{% callout note %}}
 Only certified researchers can use the equipment
 {{% /callout %}}
+
+
+## Technical manager
+
+[Helena Margarida Rocha]({{< ref "/authors/helena_margarida_rocha" >}})
+
+
+> Contact our technician for more details, training scheduling and equipment availability.
 
 ## Key Features
 
