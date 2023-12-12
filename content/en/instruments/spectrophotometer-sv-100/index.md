@@ -28,6 +28,13 @@ PrecisionTech Dynamics introduces the SpecraVision UV-Vis Spectrophotometer, a c
 Only certified researchers can use the equipment
 {{% /callout %}}
 
+## Technical manager
+
+[Helena Margarida Rocha]({{< ref "/authors/helena_margarida_rocha" >}})
+
+
+> Contact our technician for more details, training scheduling and equipment availability.
+
 
 ## Key Features
 
