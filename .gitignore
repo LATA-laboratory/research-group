@@ -220,5 +220,13 @@ cython_debug/
 # vscode
 .vscode/
 
-/public/
-/resources/
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
